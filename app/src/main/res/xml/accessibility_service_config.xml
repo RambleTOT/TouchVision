@@ -1,0 +1,8 @@
+<accessibility-service
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/accessibility_service_description"
+    android:accessibilityFlags="flagDefault|flagRequestTouchExplorationMode|flagRequestFilterKeyEvents"
+    android:accessibilityEventTypes="typeAllMask"
+    android:canRetrieveWindowContent="true"
+    android:settingsActivity="ramble.sokol.touchvisionmtsapp.SettingsActivity"
+    android:canRequestFilterKeyEvents="true"/>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TouchVision</string>
+    <string name="title_splash">Добро пожаловать\nв MTS TouchVision</string>
+    <string name="title_main_menu">TouchVision</string>
+    <string name="title_main_menu_info">Как пользоваться\nMTS TouchVision</string>
+    <string name="description_main_menu_info">Из этого руководства вы узнаете, как
+пользоваться смартфоном с помощью TouchVision. Вы изучите основные жесты для управления навигацией и научитесь пользоваться голосовыми подсказками от ассистента TouchVision</string>
+    <string name="description_splash">Перед началом работы выдайте все необходимые разрешения, без них мы не сможем вам помогать</string>
+    <string name="accessibility_service_label">TouchVision Accessibility Service</string>
+    <string name="accessibility_service_description">TouchVision</string>
+    <string name="button_text_splash">ПЕРЕЙТИ В НАСТРОЙКИ</string>
+    <string name="content_button_text_splash">Кнопка для перехода в настройки</string>
+    <string name="title_dialog_success">Разрешения получены!</string>
+    <string name="button_dialog_success_with_onboarding">Пройти онбординг</string>
+    <string name="button_dialog_success_without_onboarding">Перейти в приложение</string>
+    <string name="description_dialog_success">Хотите ли вы пройти онбординг, чтобы научиться пользоваться нашим приложением?\nМы покажем основные моменты, которые смогут упростить Вам взаимодействие с телефоном.</string>
+    <string name="title_lessons">Уроки</string>
+    <string name="title_lesson_one">Основы TouchVision</string>
+    <string name="description_lesson_one">Уже доступен</string>
+    <string name="off_touch_vision">Включить TouchVision</string>
+    <string name="ready_onboarding">Готово</string>
+    <string name="next_button">ПРОДОЛЖИТЬ</string>
+    <string name="last_lesson">ПРЕДЫДУЩИЙ ЭКРАН</string>
+    <string name="to_main">НА ГЛАВНУЮ</string>
+
+</resources>

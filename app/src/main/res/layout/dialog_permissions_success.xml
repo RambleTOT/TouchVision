@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:layout_marginHorizontal="24dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:fontFamily="@font/font_medium"
+        android:includeFontPadding="false"
+        android:text="@string/title_dialog_success"
+        android:layout_marginTop="28dp"
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:fontFamily="@font/font_medium"
+        android:includeFontPadding="false"
+        android:text="@string/description_dialog_success"
+        android:layout_marginTop="12dp"
+        android:textSize="14sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_onboarding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/main_color_red"
+        android:fontFamily="@font/font_medium"
+        android:includeFontPadding="false"
+        android:lineSpacingExtra="4sp"
+        android:layout_marginTop="16dp"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="16dp"
+        android:text="@string/button_dialog_success_with_onboarding"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:cornerRadius="12dp"
+        android:contentDescription=""/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_without_onboarding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:fontFamily="@font/font_medium"
+        android:includeFontPadding="false"
+        android:lineSpacingExtra="4sp"
+        android:layout_marginTop="4dp"
+        android:paddingHorizontal="31dp"
+        android:paddingVertical="16dp"
+        android:text="@string/button_dialog_success_without_onboarding"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:cornerRadius="12dp"
+        android:contentDescription=""/>
+
+
+</LinearLayout>

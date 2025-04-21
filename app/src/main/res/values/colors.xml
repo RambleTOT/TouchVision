@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_color_red">#F70434</color>
+    <color name="main_color_red_back">#FF113F</color>
+    <color name="stroke_color_black">#80000000</color>
+    <color name="back_lesson">#F5F5F5</color>
+    <color name="text_button">#FF0032</color>
+    <color name="back_pink_task">#FFCCCD</color>
+    <color name="back_pink_task_text">#FFEBEB</color>
+    <color name="back_pink_task_stroke">#EB8183</color>
+</resources>
